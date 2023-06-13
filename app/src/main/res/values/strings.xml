@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoListApp</string>
+    <string name="app_description">Say goodbye to chaos and hello to productivity with Todo List</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="facebook_app_id">523582266298906</string>
+    <string name="fb_login_protocol_scheme">fb523582266298906</string>
+    <string name="facebook_client_token">03c7f0b35f265680618a1bf7eb57abc5</string>
+</resources>

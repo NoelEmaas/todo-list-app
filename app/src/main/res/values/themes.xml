@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppBaseTheme" parent="android:Theme.Holo.NoActionBar">
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+
+    <style name="Theme.TodoListApp" parent="android:Theme.Holo.NoActionBar">
+        <item name="android:windowBackground">#FFF3F6FF</item>
+        <item name="android:statusBarColor">#F3F6FF</item>
+    </style>
+
+</resources>
